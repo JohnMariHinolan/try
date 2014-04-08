@@ -1,0 +1,43 @@
+
+JSP, JavaScript, jQuery 2.0  
+
+tag libraries - JSTL
+
+Thymeleaf
+MVC - Generic
+Spring
+Maven - 
+Hibernate 
+
+
+TOMCAT
+------
+
+To start Tomcat, change the directory of the CMD to the folder that contains the Tomcat. Then, type "startup".
+
+To shutdown Tomcat-<> ctrl-c
+
+or type shutdown.
+
+
+
+
+taskdef class org.apachllTask cannot be found
+
+noclassDefFoundError: org/apache/tomcat/util/coded/binary/Base64
+
+
+
+WITH ANT
+- jars (for the jars of the frameworks)
+- src  (code e.g. the package)
+- web  
+	- images
+	- WEB-INF (web.xml -> eto yung para sa servlet mapping) 
+- build.xml
+- index.html
+
+__________
+git
+spring module view control
+Spring - connect java and html
